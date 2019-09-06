@@ -1,3 +1,4 @@
+//THIS WORKS. But it doesn't flow through the test bc my placeNQueens method has paramaters
 public class NQueens{
     public int n;
     public int board[][];
